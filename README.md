@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" font = '15px'>
 <strong>Apklausų sistema</strong> 
 </p>
 
