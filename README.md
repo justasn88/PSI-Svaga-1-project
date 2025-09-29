@@ -13,9 +13,9 @@ susikurti vidinę įmonės apklausų sistemą.
 
 ## Reikiamas funkcionalumas:
 
-  1. Naudotojų valdymo modulis
+  ### 1. Naudotojų valdymo modulis
   
-  2. Apklausų kūrimo modulis
+  ### 2. Apklausų kūrimo modulis
 
     a. Galimybė kurti apklausas su daug klausimų
     
@@ -31,7 +31,7 @@ susikurti vidinę įmonės apklausų sistemą.
       
     c. Klausimai gali būti privalomi arba neprivalomi
     
-  3. Apklausų atsakymų surinkimo modulis
+  ### 3. Apklausų atsakymų surinkimo modulis
      
     a. Apklausai priskiriamas unikalus adresas
     
@@ -39,15 +39,15 @@ susikurti vidinę įmonės apklausų sistemą.
     
     c. Visi atsakymai surenkami į duomenų bazę
     
-  4. Ataskaitų modulis
+  ### 4. Ataskaitų modulis
 
     a. Pateikti apklausos ataskaitą kiekvienam klausimui (tipas skirsis priklausomai nuo klausimo tipo)
     
-  5. Galimybė importuoti apklausą ir jos atsakymus iš Excel bylos.
+  ### 5. Galimybė importuoti apklausą ir jos atsakymus iš Excel bylos.
 
 ## Sistemos išplėtimai:
 
-  Ataskaitų modulis
+  ### Ataskaitų modulis
   
     a. Laisvo teksto klausimams sukurti žodžių žemėlapį, kuriame dažniau paminėti žodžiai būtų
     atvaizduojami didesniu šriftu
