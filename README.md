@@ -17,19 +17,21 @@ susikurti vidinę įmonės apklausų sistemą.
   
   ### 2. Apklausų kūrimo modulis
 
-    a. Galimybė kurti apklausas su daug klausimų
+  a. Galimybė kurti apklausas su daug klausimų
     
+
     b. Klausimų tipai: 
+
     
-      i. Galimas vienas variantas iš pateiktų
+  i. Galimas vienas variantas iš pateiktų
       
-      ii. Galimi keli variantai iš pateiktų
+  ii. Galimi keli variantai iš pateiktų
       
-      iii. Laisvas tekstas įvedamas tekstiniame lauke
+  iii. Laisvas tekstas įvedamas tekstiniame lauke
       
-      iv. Sveikas skaičius tarp n iki m
+  iv. Sveikas skaičius tarp n iki m
       
-    c. Klausimai gali būti privalomi arba neprivalomi
+  c. Klausimai gali būti privalomi arba neprivalomi
     
   ### 3. Apklausų atsakymų surinkimo modulis
      
