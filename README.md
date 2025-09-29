@@ -1,3 +1,7 @@
+<p align="center">
+Apklausų sistema
+</p>
+
 Įmonėje dirba tūkstančiai darbuotojų. Įmonės vadovybė stengiasi įsiklausyti į darbuotojų nuomonę priimant
 svarbius įmonės sprendimus ir valdant įmonę, todėl įvairiais būdais stengiasi surinkti darbuotojų nuomones.
 Kol įmonėje dirbo dešimtys ir šimtai darbuotojų, tai buvo daroma pasikalbant su kiekvienu iš jų kas tam tikrą
