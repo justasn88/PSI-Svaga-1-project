@@ -1,6 +1,4 @@
-<p align="center">
-# Apklausų sistema
-</p>
+<h1 align="center">Apklausų sistema</h1>
 
 Įmonėje dirba tūkstančiai darbuotojų. Įmonės vadovybė stengiasi įsiklausyti į darbuotojų nuomonę priimant
 svarbius įmonės sprendimus ir valdant įmonę, todėl įvairiais būdais stengiasi surinkti darbuotojų nuomones.
