@@ -19,7 +19,7 @@ susikurti vidinę įmonės apklausų sistemą.
 
     a. Galimybė kurti apklausas su daug klausimų
     
-    b. Klausimų tipai:
+    b. Klausimų tipai: 
     
       i. Galimas vienas variantas iš pateiktų
       
