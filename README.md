@@ -28,6 +28,7 @@ Reikiamas funkcionalumas:
     a. Pateikti apklausos ataskaitą kiekvienam klausimui (tipas skirsis priklausomai nuo klausimo tipo)
   5. Galimybė importuoti apklausą ir jos atsakymus iš Excel bylos.
 
+Sistemos išplėtimai:
 
   3. Ataskaitų modulis
     a. Laisvo teksto klausimams sukurti žodžių žemėlapį, kuriame dažniau paminėti žodžiai būtų
