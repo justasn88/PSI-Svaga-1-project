@@ -1,5 +1,5 @@
 <p align="center">
-# Apklausų sistema
+<strong>Apklausų sistema</strong> 
 </p>
 
 Įmonėje dirba tūkstančiai darbuotojų. Įmonės vadovybė stengiasi įsiklausyti į darbuotojų nuomonę priimant
