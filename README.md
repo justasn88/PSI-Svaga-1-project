@@ -1,5 +1,5 @@
-<p align="center">
-<strong font = '20px'>Apklausų sistema</strong> 
+<p align="center" style="font-size: 20px;">
+    <strong>Apklausų sistema</strong>
 </p>
 
 Įmonėje dirba tūkstančiai darbuotojų. Įmonės vadovybė stengiasi įsiklausyti į darbuotojų nuomonę priimant
