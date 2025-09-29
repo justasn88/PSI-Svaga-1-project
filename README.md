@@ -1,5 +1,5 @@
 <p align="center">
-Apklausų sistema
+# Apklausų sistema
 </p>
 
 Įmonėje dirba tūkstančiai darbuotojų. Įmonės vadovybė stengiasi įsiklausyti į darbuotojų nuomonę priimant
@@ -13,7 +13,7 @@ serveriuose ar tuo labiau juos apdoroti trečių šalių programine įranga. Tod
 susikurti vidinę įmonės apklausų sistemą.
 
 
-Reikiamas funkcionalumas:
+# Reikiamas funkcionalumas:
 
   1. Naudotojų valdymo modulis
   
@@ -47,7 +47,7 @@ Reikiamas funkcionalumas:
     
   5. Galimybė importuoti apklausą ir jos atsakymus iš Excel bylos.
 
-Sistemos išplėtimai:
+# Sistemos išplėtimai:
 
   Ataskaitų modulis
   
